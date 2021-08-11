@@ -35,7 +35,7 @@ button {
 }
 
 .score-table {
-  width: 100%;;
+  width: 100%;
   margin-top: 3vh;
   border: 1px solid black;
 }
@@ -91,6 +91,4 @@ button {
     margin-top: 0;
     margin-right: 10%;
   }
-
 }
-
