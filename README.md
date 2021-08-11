@@ -4,7 +4,7 @@
 
 - The "Leaderboard project" 
 
-![screenshot](leaderboard.jpg)
+![screenshot](leaderboard.png)
 
 ## Built With
 
