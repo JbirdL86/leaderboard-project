@@ -3,5 +3,3 @@ node_modules/
 .stylelintrc.json
 package-lock.json
 .vscode
-.hintrc
-.eslintrc.json
