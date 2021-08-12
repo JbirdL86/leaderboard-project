@@ -8,17 +8,29 @@
 
 button {
   border-color: black;
-  padding: 2px 5px;
-  background-color: white;
+  padding: 4px 5px;
+  background-color: #811a1ad2;
   cursor: pointer;
+  color: #fff;
+  font-weight: bold;
+  font-size: 15px;
+}
+
+h2 {
+  color: #9c1a1a;
 }
 
 .header {
   display: flex;
   flex-wrap: wrap;
-  font-size: 20px;
   padding: 0 2%;
   margin: 5vh 0;
+}
+
+.header h1 {
+  color: #dd3636;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 40px;
 }
 
 .content {
@@ -40,8 +52,12 @@ button {
   border: 1px solid black;
 }
 
+.table-item {
+  padding: 2px 5px;
+}
+
 .table-item:nth-child(even) {
-  background-color: #ddd;
+  background-color: #94202093;
 }
 
 .table-item:nth-child(odd) {
@@ -74,8 +90,8 @@ button {
 }
 
 @media only screen and (min-width: 767px) {
-  .header {
-    font-size: 40px;
+  .header h1 {
+    font-size: 60px;
   }
 
   .content {
