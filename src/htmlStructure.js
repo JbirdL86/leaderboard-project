@@ -11,10 +11,6 @@ export default function renderHtml() {
         <button class="refresh-scores">Refresh</button>
       </div>
       <ul class="score-table">
-        <li class="table-item">Name: 100</li>
-        <li class="table-item">Name: 25</li>
-        <li class="table-item">Name: 50</li>
-        <li class="table-item">Name: 78</li>
       </ul>
     </section>
     <section class="add-score">
